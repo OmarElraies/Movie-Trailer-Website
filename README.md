@@ -5,4 +5,4 @@ this project is a server-side code to store a list of your favorite movies, incl
 
 ### How to run
 
-To run the script, clone this repository directory and run `fresh_tomatoes.py`.  You can view the page by opening `fresh_tomatoes.html`.
+To run the script, clone this repository directory and run `entertainment_center.py`.  You can view the page by opening `fresh_tomatoes.html`.
